@@ -1,0 +1,1012 @@
+[
+ {
+  "CODIGO": "307",
+  "NOMBRE": "Algebra Lineal",
+  "ASIGNATURA": "2",
+  "GRUPO": "I",
+  "CUPO": 30,
+  "PROFESOR": "MILTON   ARANGO QUINTANA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "307",
+  "NOMBRE": "Algebra Lineal",
+  "ASIGNATURA": "2",
+  "GRUPO": "J",
+  "CUPO": 30,
+  "PROFESOR": "CARLOS ANDRES ARIAS",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "307",
+  "NOMBRE": "Algebra Lineal",
+  "ASIGNATURA": "2",
+  "GRUPO": "Q",
+  "CUPO": 30,
+  "PROFESOR": "ALVARO FELIPE GALINDEZ HURTADO",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "328-1",
+  "NOMBRE": "Analisis Numérico",
+  "ASIGNATURA": "5",
+  "GRUPO": "A",
+  "CUPO": 20,
+  "PROFESOR": "CARLOS ALBERTO ARDILA ALBARRACIN",
+  "TIPOAS": "TP",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS502",
+  "NOMBRE": "Arquitectura Computacional",
+  "ASIGNATURA": "5",
+  "GRUPO": "A",
+  "CUPO": 20,
+  "PROFESOR": "FERNANDO APARICIO URBANO MOLANO",
+  "TIPOAS": "TP",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS502",
+  "NOMBRE": "Arquitectura Computacional",
+  "ASIGNATURA": "5",
+  "GRUPO": "B",
+  "CUPO": 20,
+  "PROFESOR": "FERNANDO APARICIO URBANO MOLANO",
+  "TIPOAS": "TP",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS402",
+  "NOMBRE": "Bases de Datos I",
+  "ASIGNATURA": "4",
+  "GRUPO": "A",
+  "CUPO": 35,
+  "PROFESOR": "JIMENA ADRIANA TIMANA PENA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS504",
+  "NOMBRE": "Bases de Datos II",
+  "ASIGNATURA": "5",
+  "GRUPO": "A",
+  "CUPO": 25,
+  "PROFESOR": "WILSON ALFREDO ORTEGA ORDONEZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS504",
+  "NOMBRE": "Bases de Datos II",
+  "ASIGNATURA": "5",
+  "GRUPO": "B",
+  "CUPO": 25,
+  "PROFESOR": "JIMENA ADRIANA TIMANA PENA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "11465",
+  "NOMBRE": "Calculo I",
+  "ASIGNATURA": "1",
+  "GRUPO": "A",
+  "CUPO": 35,
+  "PROFESOR": "CARLOS ANDRES MARTOS OJEDA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "11465",
+  "NOMBRE": "Calculo I",
+  "ASIGNATURA": "1",
+  "GRUPO": "B",
+  "CUPO": 35,
+  "PROFESOR": "JHONY FERNEY IBARRA VASQUEZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "11465",
+  "NOMBRE": "Calculo I",
+  "ASIGNATURA": "1",
+  "GRUPO": "C",
+  "CUPO": 35,
+  "PROFESOR": "JHONY FERNEY IBARRA VASQUEZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "311-1",
+  "NOMBRE": "Calculo II",
+  "ASIGNATURA": "2",
+  "GRUPO": "A",
+  "CUPO": 33,
+  "PROFESOR": "DIEGO FERNANDO RUIZ SOLARTE",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "311-1",
+  "NOMBRE": "Calculo II",
+  "ASIGNATURA": "2",
+  "GRUPO": "I",
+  "CUPO": 30,
+  "PROFESOR": "EDWIN CESAR CHAMORRO",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "311-1",
+  "NOMBRE": "Calculo II",
+  "ASIGNATURA": "2",
+  "GRUPO": "J",
+  "CUPO": 30,
+  "PROFESOR": "MILTON   ARANGO QUINTANA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "316-1",
+  "NOMBRE": "Calculo III",
+  "ASIGNATURA": "3",
+  "GRUPO": "A",
+  "CUPO": 30,
+  "PROFESOR": "HECTOR EFREN GUERRERO MORA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "316-1",
+  "NOMBRE": "Calculo III",
+  "ASIGNATURA": "3",
+  "GRUPO": "D",
+  "CUPO": 35,
+  "PROFESOR": "CARLOS JULIO RESTREPO SAAVEDRA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS803",
+  "NOMBRE": "Calidad de Software",
+  "ASIGNATURA": "8",
+  "GRUPO": "A",
+  "CUPO": 30,
+  "PROFESOR": "SANDRA LORENA BUITRON RUIZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "322-1",
+  "NOMBRE": "Ecuaciones Diferenciales Ordinarias",
+  "ASIGNATURA": "4",
+  "GRUPO": "E",
+  "CUPO": 40,
+  "PROFESOR": "EDWIN CESAR CHAMORRO",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "317-1",
+  "NOMBRE": "Electromagnetismo",
+  "ASIGNATURA": "3",
+  "GRUPO": "FC",
+  "CUPO": 25,
+  "PROFESOR": "FABIO HERNAN REALPE MARTINEZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "317-1",
+  "NOMBRE": "Electromagnetismo",
+  "ASIGNATURA": "3",
+  "GRUPO": "FD",
+  "CUPO": 25,
+  "PROFESOR": "JEIMMY ADRIANA MUNOZ ALEGRIA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "MAT131",
+  "NOMBRE": "Estadística y Probabilidad",
+  "ASIGNATURA": "6",
+  "GRUPO": "A",
+  "CUPO": 40,
+  "PROFESOR": "EDWIN   RENGIFO CANIZALES",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS401",
+  "NOMBRE": "Estructura de Datos II",
+  "ASIGNATURA": "4",
+  "GRUPO": "A",
+  "CUPO": 25,
+  "PROFESOR": "JHON EDER MASSO DAZA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS601",
+  "NOMBRE": "Estructura de Lenguajes",
+  "ASIGNATURA": "6",
+  "GRUPO": "A",
+  "CUPO": 25,
+  "PROFESOR": "WILSON ALFREDO ORTEGA ORDONEZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS301",
+  "NOMBRE": "Estructuras de Datos I",
+  "ASIGNATURA": "3",
+  "GRUPO": "A",
+  "CUPO": 22,
+  "PROFESOR": "JORGE JAIR MORENO CHAUSTRE",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS301",
+  "NOMBRE": "Estructuras de Datos I",
+  "ASIGNATURA": "3",
+  "GRUPO": "B",
+  "CUPO": 22,
+  "PROFESOR": "RENE FABIAN ZUNIGA MUNOZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "EFISH 409",
+  "NOMBRE": "Formacion Ciudadana",
+  "ASIGNATURA": "1",
+  "GRUPO": "A",
+  "CUPO": 33,
+  "PROFESOR": "WILSON ESPINOSA DE LA PAVA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "EFISH 409",
+  "NOMBRE": "Formacion Ciudadana",
+  "ASIGNATURA": "1",
+  "GRUPO": "B",
+  "CUPO": 35,
+  "PROFESOR": "JULIE ALEXANDRA QUINTERO GONZALEZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "PIS110",
+  "NOMBRE": "Fundamentos de Economia",
+  "ASIGNATURA": "9",
+  "GRUPO": "A",
+  "CUPO": 30,
+  "PROFESOR": "JEIVER TAPIA CIFUENTES",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS901",
+  "NOMBRE": "Gestion de Proyectos Informaticos",
+  "ASIGNATURA": "9",
+  "GRUPO": "A",
+  "CUPO": 30,
+  "PROFESOR": "LUZ MARINA SIERRA MARTINEZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "344",
+  "NOMBRE": "Gestion Empresarial",
+  "ASIGNATURA": "9",
+  "GRUPO": "A",
+  "CUPO": 30,
+  "PROFESOR": "ISABEL   GONZALEZ SERNA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS503",
+  "NOMBRE": "Ingenieria de Software I",
+  "ASIGNATURA": "5",
+  "GRUPO": "A",
+  "CUPO": 20,
+  "PROFESOR": "RICARDO ANTONIO ZAMBRANO SEGURA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS503",
+  "NOMBRE": "Ingenieria de Software I",
+  "ASIGNATURA": "5",
+  "GRUPO": "B",
+  "CUPO": 20,
+  "PROFESOR": "NN3",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS602",
+  "NOMBRE": "Ingenieria de Software II",
+  "ASIGNATURA": "6",
+  "GRUPO": "A",
+  "CUPO": 25,
+  "PROFESOR": "JULIO ARIEL HURTADO ALEGRIA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS703",
+  "NOMBRE": "Ingenieria de Software III",
+  "ASIGNATURA": "7",
+  "GRUPO": "A",
+  "CUPO": 35,
+  "PROFESOR": "HENDRYS FABIAN TOBAR MUNOZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "31401",
+  "NOMBRE": "Ingles I - Curso Piloto - I Semestre",
+  "ASIGNATURA": "1",
+  "GRUPO": "1A",
+  "CUPO": 40,
+  "PROFESOR": "UIDAD MARIA TAYLOR BECHARA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "31401",
+  "NOMBRE": "Ingles I - Curso Piloto - I Semestre",
+  "ASIGNATURA": "1",
+  "GRUPO": "1B",
+  "CUPO": 40,
+  "PROFESOR": "MARIBEL   ROJAS FERNANDEZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "M31402",
+  "NOMBRE": "Ingles II - Curso Piloto - II Semestre",
+  "ASIGNATURA": "2",
+  "GRUPO": "2A",
+  "CUPO": 40,
+  "PROFESOR": "UIDAD MARIA TAYLOR BECHARA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "333-1",
+  "NOMBRE": "Inteligencia Artificial",
+  "ASIGNATURA": "7",
+  "GRUPO": "A",
+  "CUPO": 18,
+  "PROFESOR": "EMBER UBEIMAR MARTINEZ FLOR",
+  "TIPOAS": "TP",
+  "JORNEC": 3
+ },
+ {
+  "CODIGO": "333-1",
+  "NOMBRE": "Inteligencia Artificial",
+  "ASIGNATURA": "7",
+  "GRUPO": "B",
+  "CUPO": 18,
+  "PROFESOR": "MARIA ISABEL VIDAL CAICEDO",
+  "TIPOAS": "TP",
+  "JORNEC": 3
+ },
+ {
+  "CODIGO": "11477",
+  "NOMBRE": "Introduccion a la Informatica",
+  "ASIGNATURA": "1",
+  "GRUPO": "A",
+  "CUPO": 25,
+  "PROFESOR": "JORGE JAIR MORENO CHAUSTRE",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "11477",
+  "NOMBRE": "Introduccion a la Informatica",
+  "ASIGNATURA": "1",
+  "GRUPO": "B",
+  "CUPO": 25,
+  "PROFESOR": "CARLOS ALBERTO COBOS LOZADA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "11477",
+  "NOMBRE": "Introduccion a la Informatica",
+  "ASIGNATURA": "1",
+  "GRUPO": "C",
+  "CUPO": 25,
+  "PROFESOR": "JHON EDER MASSO DAZA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "11477",
+  "NOMBRE": "Introduccion a la Informatica",
+  "ASIGNATURA": "1",
+  "GRUPO": "D",
+  "CUPO": 25,
+  "PROFESOR": "ERWIN   MEZA VEGA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "11479",
+  "NOMBRE": "Introduccion a la PIS",
+  "ASIGNATURA": "1",
+  "GRUPO": "A",
+  "CUPO": 30,
+  "PROFESOR": "SANDRA MILENA ROA MARTINEZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "11479",
+  "NOMBRE": "Introduccion a la PIS",
+  "ASIGNATURA": "1",
+  "GRUPO": "B",
+  "CUPO": 30,
+  "PROFESOR": "SANDRA MILENA ROA MARTINEZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "338",
+  "NOMBRE": "Investigacion de Operaciones",
+  "ASIGNATURA": "8",
+  "GRUPO": "A",
+  "CUPO": 30,
+  "PROFESOR": "ARIEL EDMUNDO PABON BURBANO",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS402L",
+  "NOMBRE": "Laboratorio de Bases de Datos I",
+  "ASIGNATURA": "4",
+  "GRUPO": "A",
+  "CUPO": 13,
+  "PROFESOR": "MARTHA ELIANA MENDOZA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS402L",
+  "NOMBRE": "Laboratorio de Bases de Datos I",
+  "ASIGNATURA": "4",
+  "GRUPO": "B",
+  "CUPO": 13,
+  "PROFESOR": "JORGE ADRIAN MUNOZ VELASCO",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS504L",
+  "NOMBRE": "Laboratorio de Bases de Datos II",
+  "ASIGNATURA": "5",
+  "GRUPO": "A",
+  "CUPO": 16,
+  "PROFESOR": "MARIA ISABEL VIDAL CAICEDO",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS504L",
+  "NOMBRE": "Laboratorio de Bases de Datos II",
+  "ASIGNATURA": "5",
+  "GRUPO": "B",
+  "CUPO": 16,
+  "PROFESOR": "JIMENA ADRIANA TIMANA PENA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS504L",
+  "NOMBRE": "Laboratorio de Bases de Datos II",
+  "ASIGNATURA": "5",
+  "GRUPO": "C",
+  "CUPO": 16,
+  "PROFESOR": "JIMENA ADRIANA TIMANA PENA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "329-1",
+  "NOMBRE": "Laboratorio de Electromagnetismo",
+  "ASIGNATURA": "3",
+  "GRUPO": "C",
+  "CUPO": 15,
+  "PROFESOR": "JHON ALEJANDRO ANDRADE HOYOS",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "329-1",
+  "NOMBRE": "Laboratorio de Electromagnetismo",
+  "ASIGNATURA": "3",
+  "GRUPO": "D",
+  "CUPO": 15,
+  "PROFESOR": "ALEJANDRA ISABEL GUERRERO DUYMOVIC",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS601L",
+  "NOMBRE": "Laboratorio de Estructura de Lenguajes",
+  "ASIGNATURA": "6",
+  "GRUPO": "A",
+  "CUPO": 12,
+  "PROFESOR": "NN3",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS601L",
+  "NOMBRE": "Laboratorio de Estructura de Lenguajes",
+  "ASIGNATURA": "6",
+  "GRUPO": "B",
+  "CUPO": 12,
+  "PROFESOR": "NN3",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "10153",
+  "NOMBRE": "Laboratorio de Estructuras de Datos I",
+  "ASIGNATURA": "3",
+  "GRUPO": "A",
+  "CUPO": 20,
+  "PROFESOR": "JORGE JAIR MORENO CHAUSTRE",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "10153",
+  "NOMBRE": "Laboratorio de Estructuras de Datos I",
+  "ASIGNATURA": "3",
+  "GRUPO": "B",
+  "CUPO": 20,
+  "PROFESOR": "ERWIN   MEZA VEGA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS401L",
+  "NOMBRE": "Laboratorio de Estructuras de Datos II",
+  "ASIGNATURA": "4",
+  "GRUPO": "A",
+  "CUPO": 18,
+  "PROFESOR": "JHON EDER MASSO DAZA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS401L",
+  "NOMBRE": "Laboratorio de Estructuras de Datos II",
+  "ASIGNATURA": "4",
+  "GRUPO": "B",
+  "CUPO": 18,
+  "PROFESOR": "RENE FABIAN ZUNIGA MUNOZ",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS503L",
+  "NOMBRE": "Laboratorio de Ingenieria de Software I",
+  "ASIGNATURA": "5",
+  "GRUPO": "A",
+  "CUPO": 18,
+  "PROFESOR": "RICARDO ANTONIO ZAMBRANO SEGURA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS503L",
+  "NOMBRE": "Laboratorio de Ingenieria de Software I",
+  "ASIGNATURA": "5",
+  "GRUPO": "B",
+  "CUPO": 18,
+  "PROFESOR": "RICARDO ANTONIO ZAMBRANO SEGURA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS602L",
+  "NOMBRE": "Laboratorio de Ingenieria de Software II",
+  "ASIGNATURA": "6",
+  "GRUPO": "A",
+  "CUPO": 13,
+  "PROFESOR": "RICARDO ANTONIO ZAMBRANO SEGURA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS602L",
+  "NOMBRE": "Laboratorio de Ingenieria de Software II",
+  "ASIGNATURA": "6",
+  "GRUPO": "B",
+  "CUPO": 13,
+  "PROFESOR": "WILSON LIBARDO PANTOJA YEPEZ",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS703L",
+  "NOMBRE": "Laboratorio de Ingenieria de Software III",
+  "ASIGNATURA": "7",
+  "GRUPO": "A",
+  "CUPO": 17,
+  "PROFESOR": "HENDRYS FABIAN TOBAR MUNOZ",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS703L",
+  "NOMBRE": "Laboratorio de Ingenieria de Software III",
+  "ASIGNATURA": "7",
+  "GRUPO": "B",
+  "CUPO": 18,
+  "PROFESOR": "HENDRYS FABIAN TOBAR MUNOZ",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "11478",
+  "NOMBRE": "Laboratorio de Introduccion a la Informatica",
+  "ASIGNATURA": "1",
+  "GRUPO": "A",
+  "CUPO": 20,
+  "PROFESOR": "JORGE JAIR MORENO CHAUSTRE",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "11478",
+  "NOMBRE": "Laboratorio de Introduccion a la Informatica",
+  "ASIGNATURA": "1",
+  "GRUPO": "B",
+  "CUPO": 20,
+  "PROFESOR": "DANIEL EDUARDO PAZ PERAFAN",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "11478",
+  "NOMBRE": "Laboratorio de Introduccion a la Informatica",
+  "ASIGNATURA": "1",
+  "GRUPO": "C",
+  "CUPO": 20,
+  "PROFESOR": "JHON EDER MASSO DAZA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "11478",
+  "NOMBRE": "Laboratorio de Introduccion a la Informatica",
+  "ASIGNATURA": "1",
+  "GRUPO": "D",
+  "CUPO": 20,
+  "PROFESOR": "NESTOR MILCIADES DIAZ MARINO",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "318-1",
+  "NOMBRE": "Laboratorio de Mecanica",
+  "ASIGNATURA": "2",
+  "GRUPO": "C",
+  "CUPO": 15,
+  "PROFESOR": "JAZMIN CALVACHE MUNOZ",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "318-1",
+  "NOMBRE": "Laboratorio de Mecanica",
+  "ASIGNATURA": "2",
+  "GRUPO": "D",
+  "CUPO": 15,
+  "PROFESOR": "WAYNER RIVERA MARQUEZ",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "318-1",
+  "NOMBRE": "Laboratorio de Mecanica",
+  "ASIGNATURA": "2",
+  "GRUPO": "E",
+  "CUPO": 15,
+  "PROFESOR": "WAYNER RIVERA MARQUEZ",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "318-1",
+  "NOMBRE": "Laboratorio de Mecanica",
+  "ASIGNATURA": "2",
+  "GRUPO": "L",
+  "CUPO": 15,
+  "PROFESOR": "JULIANA PAOLA ENRIQUEZ",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS201-L",
+  "NOMBRE": "Laboratorio de Programacion Orientada a Objetos",
+  "ASIGNATURA": "2",
+  "GRUPO": "A",
+  "CUPO": 18,
+  "PROFESOR": "RICARDO ANTONIO ZAMBRANO SEGURA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS201-L",
+  "NOMBRE": "Laboratorio de Programacion Orientada a Objetos",
+  "ASIGNATURA": "2",
+  "GRUPO": "B",
+  "CUPO": 18,
+  "PROFESOR": "JORGE JAIR MORENO CHAUSTRE",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS201-L",
+  "NOMBRE": "Laboratorio de Programacion Orientada a Objetos",
+  "ASIGNATURA": "2",
+  "GRUPO": "C",
+  "CUPO": 18,
+  "PROFESOR": "JORGE ADRIAN MUNOZ VELASCO",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS702L",
+  "NOMBRE": "Laboratorio de Sistemas Distribuidos",
+  "ASIGNATURA": "7",
+  "GRUPO": "A",
+  "CUPO": 15,
+  "PROFESOR": "PABLO AUGUSTO MAGE IMBACHI",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS702L",
+  "NOMBRE": "Laboratorio de Sistemas Distribuidos",
+  "ASIGNATURA": "7",
+  "GRUPO": "B",
+  "CUPO": 15,
+  "PROFESOR": "DANIEL EDUARDO PAZ PERAFAN",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS603L",
+  "NOMBRE": "Laboratorio de Sistemas Operativos",
+  "ASIGNATURA": "6",
+  "GRUPO": "A",
+  "CUPO": 13,
+  "PROFESOR": "ERWIN   MEZA VEGA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "SIS603L",
+  "NOMBRE": "Laboratorio de Sistemas Operativos",
+  "ASIGNATURA": "6",
+  "GRUPO": "B",
+  "CUPO": 13,
+  "PROFESOR": "ERWIN   MEZA VEGA",
+  "TIPOAS": "P",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "21505",
+  "NOMBRE": "Lectura y Escritura",
+  "ASIGNATURA": 4,
+  "GRUPO": "M",
+  "CUPO": 30,
+  "PROFESOR": "SONIA ELIZABETH GUERRERO ROJAS",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "21505",
+  "NOMBRE": "Lectura y Escritura",
+  "ASIGNATURA": 4,
+  "GRUPO": "N",
+  "CUPO": 30,
+  "PROFESOR": "ANA MARIA PLAZA ROSERO",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "351",
+  "NOMBRE": "Legislacion Laboral",
+  "ASIGNATURA": "9",
+  "GRUPO": "A",
+  "CUPO": 30,
+  "PROFESOR": "CARLOS IGNACIO MOSQUERA URBANO",
+  "TIPOAS": "T",
+  "JORNEC": 1
+ },
+ {
+  "CODIGO": "312-1",
+  "NOMBRE": "Mecanica",
+  "ASIGNATURA": "2",
+  "GRUPO": "J",
+  "CUPO": 35,
+  "PROFESOR": "EDUARDO ANDRES CANOLA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "312-1",
+  "NOMBRE": "Mecanica",
+  "ASIGNATURA": "2",
+  "GRUPO": "K",
+  "CUPO": 35,
+  "PROFESOR": "DIEGO FERNANDO SANDOVAL",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS801",
+  "NOMBRE": "Metodologia de la Investigacion",
+  "ASIGNATURA": "7",
+  "GRUPO": "A",
+  "CUPO": 40,
+  "PROFESOR": "SANDRA MILENA ROA MARTINEZ",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS201",
+  "NOMBRE": "Programacion Orientada a Objetos",
+  "ASIGNATURA": "2",
+  "GRUPO": "A",
+  "CUPO": 35,
+  "PROFESOR": "JORGE ADRIAN MUNOZ VELASCO",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS201",
+  "NOMBRE": "Programacion Orientada a Objetos",
+  "ASIGNATURA": "2",
+  "GRUPO": "B",
+  "CUPO": 35,
+  "PROFESOR": "JORGE JAIR MORENO CHAUSTRE",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "346-1",
+  "NOMBRE": "Proyecto I",
+  "ASIGNATURA": "8",
+  "GRUPO": "B",
+  "CUPO": 35,
+  "PROFESOR": "MIGUEL ANGEL NINO ZAMBRANO",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS902",
+  "NOMBRE": "Proyecto II",
+  "ASIGNATURA": "9",
+  "GRUPO": "A",
+  "CUPO": 15,
+  "PROFESOR": "CESAR JESUS PARDO CALVACHE",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "TLM815",
+  "NOMBRE": "Redes",
+  "ASIGNATURA": "8",
+  "GRUPO": "A",
+  "CUPO": 15,
+  "PROFESOR": "JOHANNA ANDREA HURTADO SANCHEZ",
+  "TIPOAS": "TP",
+  "JORNEC": 3
+ },
+ {
+  "CODIGO": "TLM815",
+  "NOMBRE": "Redes",
+  "ASIGNATURA": "8",
+  "GRUPO": "B",
+  "CUPO": 15,
+  "PROFESOR": "JOHANNA ANDREA HURTADO SANCHEZ",
+  "TIPOAS": "TP",
+  "JORNEC": 3
+ },
+ {
+  "CODIGO": "SIS702",
+  "NOMBRE": "Sistemas Distribuidos",
+  "ASIGNATURA": "7",
+  "GRUPO": "A",
+  "CUPO": 23,
+  "PROFESOR": "DANIEL EDUARDO PAZ PERAFAN",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS702",
+  "NOMBRE": "Sistemas Distribuidos",
+  "ASIGNATURA": "7",
+  "GRUPO": "B",
+  "CUPO": 23,
+  "PROFESOR": "DANIEL EDUARDO PAZ PERAFAN",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS603",
+  "NOMBRE": "Sistemas Operativos",
+  "ASIGNATURA": "6",
+  "GRUPO": "A",
+  "CUPO": 25,
+  "PROFESOR": "ERWIN   MEZA VEGA",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS501",
+  "NOMBRE": "Teoria de la Computacion",
+  "ASIGNATURA": "5",
+  "GRUPO": "A",
+  "CUPO": 35,
+  "PROFESOR": "RICARDO ANTONIO ZAMBRANO SEGURA",
+  "TIPOAS": "TP",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS706",
+  "NOMBRE": "Teoria y Dinamica de Sistemas",
+  "ASIGNATURA": "7",
+  "GRUPO": "A",
+  "CUPO": 20,
+  "PROFESOR": "NESTOR MILCIADES DIAZ MARINO",
+  "TIPOAS": "TP",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "SIS706",
+  "NOMBRE": "Teoria y Dinamica de Sistemas",
+  "ASIGNATURA": "7",
+  "GRUPO": "B",
+  "CUPO": 20,
+  "PROFESOR": "MIGUEL ANGEL NINO ZAMBRANO",
+  "TIPOAS": "TP",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "353",
+  "NOMBRE": "Trabajo de Grado",
+  "ASIGNATURA": "10",
+  "GRUPO": "A",
+  "CUPO": 120,
+  "PROFESOR": "WILSON LIBARDO PANTOJA YEPEZ",
+  "TIPOAS": "TP",
+  "JORNEC": 2
+ },
+ {
+  "CODIGO": "323-1",
+  "NOMBRE": "Vibraciones y Ondas",
+  "ASIGNATURA": "4",
+  "GRUPO": "D",
+  "CUPO": 35,
+  "PROFESOR": "ALEJANDRA ISABEL GUERRERO",
+  "TIPOAS": "T",
+  "JORNEC": 2
+ }
+]
